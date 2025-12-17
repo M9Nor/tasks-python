@@ -4,7 +4,7 @@ for i in range(5):
     items.append(item)
 
 target = input("Enter target to Searche: ")
-
+#new line 
 if target in items:
     print("Found")
 else:
